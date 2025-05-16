@@ -1,0 +1,15 @@
+.character-image:hover {
+  filter: drop-shadow(0 0 6px #00ff88) drop-shadow(0 0 12px #00ff88);
+}
+
+.character-image {
+  transition: all 0.3s ease;
+}
+
+.card-hover-up:hover {
+  transform: translateY(-10px);
+}
+
+.card-hover-up {
+  transition: all 0.3s ease;
+}
